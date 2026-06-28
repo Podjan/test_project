@@ -1,2 +1,2 @@
 # test_project
-Belajar git
+Repo hanya untuk test git saja
